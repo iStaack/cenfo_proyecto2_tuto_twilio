@@ -39,7 +39,15 @@ Requisitos
 -Se necesita un out token suministrado por Twilio.
 
 ¿Cómo se usa?
--
+
+-Como primer paso debemos ingresar a la documentación de cómo usar Twilio en C#.
+
+https://github.com/iStaack/cenfo_proyecto2_tuto_twilio/issues/1#issue-454453450
+
+-Después se debe crear un nuevo proyecto de tipo consola.
+
+https://github.com/iStaack/cenfo_proyecto2_tuto_twilio/issues/2#issue-454453780
+
 
 Donde encontrar la documentacion
 - https://www.twilio.com/docs/libraries/csharp-dotnet
