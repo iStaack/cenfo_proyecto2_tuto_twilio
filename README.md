@@ -29,7 +29,7 @@ Que es Twilio?
 
   Programable Fax: Este API permite enviar y recibir faxes entre su aplicacion y una maquina de fax.
 
-Para que sirve?
+¿Para qué sirve?
 -Twilio toma la red global de comunicaciones y proporciona API de comunicación en la nube que se integra con los sistemas y aplicaciones web. Además, ayuda a las empresas a obtener la información correcta para sus clientes, junto con una conexión con la persona adecuada. También ayuda a llevar a los negocios a un nivel superior y a que los clientes participen y queden satisfechos.
 
 Requisitos
@@ -38,11 +38,16 @@ Requisitos
 -Se necesita un ID suministrado por Twilio.
 -Se necesita un out token suministrado por Twilio.
 
-Como se usa
+¿Cómo se usa?
 -
 
 Donde encontrar la documentacion
 - https://www.twilio.com/docs/libraries/csharp-dotnet
 
 Nugets recomendados
--En visual studio code el nuget recomendado es Twilio by Twilio.
+-Twilio by Twilio.
+
+
+Imagen del resultado:
+
+![prueba](https://user-images.githubusercontent.com/47118987/59235571-34a0c580-8baf-11e9-8539-dda68d806f58.jpg)
