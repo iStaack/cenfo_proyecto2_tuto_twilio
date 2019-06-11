@@ -44,15 +44,52 @@ Requisitos
 
 https://github.com/iStaack/cenfo_proyecto2_tuto_twilio/issues/1#issue-454453450
 
--Después se debe crear un nuevo proyecto de tipo consola.
+- Después se debe crear un nuevo proyecto de tipo consola.
 
-https://github.com/iStaack/cenfo_proyecto2_tuto_twilio/issues/2#issue-454453780
+https://github.com/iStaack/cenfo_proyecto2_tuto_twilio/issues/2#issue-454453780}
+
+- Antes de poder comenzar a programar, deberá registrar su cuenta en Twilio. Después de haber registrado su cuenta deberá confirmar un mensaje que la página de Twilio envía a su correo para poder utilizarlo.
+
+https://github.com/iStaack/cenfo_proyecto2_tuto_twilio/issues/3#issue-454454533
+
+- Cuando haya recibido el correo aparecerá las siguientes opciones, en la cual deberá seleccionar cualquiera de las dos opciones para activar su cuenta.
+
+https://github.com/iStaack/cenfo_proyecto2_tuto_twilio/issues/4#issuecomment-500666299
+
+- Luego de haberse activado la cuenta deberá de ingresar el numero al cual Twilio enviará mensajes, si el numero al que se intenta enviar mensajes no está registrado en la página este no recibirá mensajes.
+
+https://github.com/iStaack/cenfo_proyecto2_tuto_twilio/issues/5#issue-454456100
+
+- Recibirá un código por mensaje al número ingresado para que verifique que el numero sea correcto.
+
+https://github.com/iStaack/cenfo_proyecto2_tuto_twilio/issues/6#issue-454456388
+
+- Deberá seleccionar las siguientes opciones para continuar con el proceso de usar Twilio en un entorno de desarrollo preferido.
+
+https://github.com/iStaack/cenfo_proyecto2_tuto_twilio/issues/7#issue-454456841
+
+- Luego de haber terminado el formulario se le mostrara el siguiente dashboard donde se mostrarán las siguientes credenciales que se usaran para el funcionamiento del API.
+
+https://github.com/iStaack/cenfo_proyecto2_tuto_twilio/issues/8#issue-454457185
+
+- Después de haber obtenido el número de pruebas de Twilio deberá ingresar el siguiente código.
+
+https://github.com/iStaack/cenfo_proyecto2_tuto_twilio/issues/9#issue-454457676
+
+-Luego para poder continuar necesitaremos un número de teléfono, el cual será suministrado por los servidores de Twilio, este número será el encargado de él envió de los mensajes. Por motivos de seguridad Twilio lo hace de esta manera.
+
+- Por ultimo se deberá crear el siguiente código en el proyecto de tipo consola que se habia creado al pricipio.
+
+https://github.com/iStaack/cenfo_proyecto2_tuto_twilio/issues/11#issue-454458262
 
 
-Donde encontrar la documentacion
+Donde encontrar la documentación
+
 - https://www.twilio.com/docs/libraries/csharp-dotnet
+- https://www.twilio.com/docs/sms/tutorials/how-to-send-sms-messages-csharp
 
 Nugets recomendados
+
 -Twilio by Twilio.
 
 
