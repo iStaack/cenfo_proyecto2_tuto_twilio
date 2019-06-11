@@ -80,7 +80,8 @@ https://github.com/iStaack/cenfo_proyecto2_tuto_twilio/issues/9#issue-454457676
 
 - Por ultimo se deberá crear el siguiente código en el proyecto de tipo consola que se habia creado al pricipio.
 
-https://github.com/iStaack/cenfo_proyecto2_tuto_twilio/issues/11#issue-454458262
+![imagen11](https://user-images.githubusercontent.com/50879682/59240950-f44b4280-8bc2-11e9-85dd-0a044f5b7ea7.png)
+
 
 
 Donde encontrar la documentación
